@@ -103,54 +103,54 @@ items:
         href: https://github.com/microsoft/PowerToys/issues/new/choose
       - name: Module documentation
         items:
-        - name: Always on Top
-          href: ../powertoys/always-on-top.md
-        - name: Awake
-          href: ../powertoys/awake.md
-        - name: Color Picker
-          href: ../powertoys/color-picker.md
-        - name: Command Not Found
-          href: ../powertoys/cmd-not-found.md
-        - name: Crop And Lock
-          href: ../powertoys/crop-and-lock.md
-        - name: Environment Variables
-          href: ../powertoys/environment-variables.md
-        - name: FancyZones
-          href: ../powertoys/fancyzones.md
-        - name: File Explorer add-ons
-          href: ../powertoys/file-explorer.md
-        - name: File Locksmith
-          href: ../powertoys/file-locksmith.md
-        - name: Hosts File Editor
-          href: ../powertoys/hosts-file-editor.md
-        - name: Image Resizer
-          href: ../powertoys/image-resizer.md
-        - name: Keyboard Manager
-          href: ../powertoys/keyboard-manager.md
-        - name: Mouse Utilities
-          href: ../powertoys/mouse-utilities.md
-        - name: Mouse without Borders
-          href: ../powertoys/mouse-without-borders.md
-        - name: Paste as Plain Text
-          href: ../powertoys/paste-as-plain-text.md
-        - name: Peek
-          href: ../powertoys/peek.md
-        - name: PowerRename
-          href: ../powertoys/powerrename.md
-        - name: PowerToys Run
-          href: ../powertoys/run.md
-        - name: Quick Accent
-          href: ../powertoys/quick-accent.md
-        - name: Registry Preview
-          href: ../powertoys/registry-preview.md
-        - name: Screen Ruler
-          href: ../powertoys/screen-ruler.md
-        - name: Shortcut Guide
-          href: ../powertoys/shortcut-guide.md
-        - name: Text Extractor
-          href: ../powertoys/text-extractor.md
-        - name: Video Conference Mute
-          href: ../powertoys/video-conference-mute.md
+          - name: Always on Top
+            href: ../powertoys/always-on-top.md
+          - name: Awake
+            href: ../powertoys/awake.md
+          - name: Color Picker
+            href: ../powertoys/color-picker.md
+          - name: Command Not Found
+            href: ../powertoys/cmd-not-found.md
+          - name: Crop And Lock
+            href: ../powertoys/crop-and-lock.md
+          - name: Environment Variables
+            href: ../powertoys/environment-variables.md
+          - name: FancyZones
+            href: ../powertoys/fancyzones.md
+          - name: File Explorer add-ons
+            href: ../powertoys/file-explorer.md
+          - name: File Locksmith
+            href: ../powertoys/file-locksmith.md
+          - name: Hosts File Editor
+            href: ../powertoys/hosts-file-editor.md
+          - name: Image Resizer
+            href: ../powertoys/image-resizer.md
+          - name: Keyboard Manager
+            href: ../powertoys/keyboard-manager.md
+          - name: Mouse Utilities
+            href: ../powertoys/mouse-utilities.md
+          - name: Mouse without Borders
+            href: ../powertoys/mouse-without-borders.md
+          - name: Paste as Plain Text
+            href: ../powertoys/paste-as-plain-text.md
+          - name: Peek
+            href: ../powertoys/peek.md
+          - name: PowerRename
+            href: ../powertoys/powerrename.md
+          - name: PowerToys Run
+            href: ../powertoys/run.md
+          - name: Quick Accent
+            href: ../powertoys/quick-accent.md
+          - name: Registry Preview
+            href: ../powertoys/registry-preview.md
+          - name: Screen Ruler
+            href: ../powertoys/screen-ruler.md
+          - name: Shortcut Guide
+            href: ../powertoys/shortcut-guide.md
+          - name: Text Extractor
+            href: ../powertoys/text-extractor.md
+          - name: Video Conference Mute
+            href: ../powertoys/video-conference-mute.md
   - name: Windows Subsystem for Linux
     href: /windows/wsl/
   - name: Windows Terminal
